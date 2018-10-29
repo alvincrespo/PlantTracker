@@ -1,3 +1,7 @@
 {
-  "extends": "rallycoding"
+  "extends": "rallycoding",
+  "plugins": ["prettier"],
+  "rules": {
+    "quotes": ["error", "double"]
+  }
 }
