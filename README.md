@@ -14,6 +14,9 @@ There aren't any really good tools to help you understand your garden - so I dec
 ## Technology
 
 - [React Native](https://facebook.github.io/react-native/)
+- [Emotion](https://emotion.sh)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 ## Installation and Setup
 
