@@ -7,8 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@emotion/primitives": "^9.2.11",
+    "emotion": "^9.2.12",
+    "prop-types": "^15.6.2",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4"
+    "react-emotion": "^9.2.12",
+    "react-native": "0.57.4",
+    "react-primitives": "^0.6.1"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
